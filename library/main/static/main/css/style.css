@@ -1,0 +1,39 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body{
+    background: linear-gradient(to top, #ffffff83, #61638f85);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: inline-block;
+}
+h1{
+    position: absolute;
+    color: red;
+    right: 0px;
+}
+h2{
+    position: absolute;
+    right: 0px;
+    top: 8%;
+    color: #fe000080;
+}
+h3{
+    position: absolute;
+    right: 0px;
+    top: 13%;
+    color: #ba00003c;
+}
+h6{
+    position: absolute;
+    right: 0px;
+    color: rgba(0, 0, 255, 0.492);
+}
+img{
+    position:absolute;
+    top: 10%;
+}
